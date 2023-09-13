@@ -2446,3 +2446,8 @@ codecafe:
 - ttl: 1
   type: CNAME 
   value: cname.vercel-dns.com.
+
+alsharq:
+- ttl: 1
+  type: CNAME 
+  value: stem6th.github.io/Al-sharq/.
